@@ -23,6 +23,6 @@ DE maneira mais detalhada, ele funciona da seguinte maneira:
 3 - O Power BI recebe os dados e, usando um Gateway, atualiza os graficos e métricas com a nova adição de dados.
 
 
-Para ter acesso a versão online do Dashboard, acesse o link a baixo:
+Para ter acesso a versão online do Dashboard, acesse o link:
 https://app.powerbi.com/view?r=eyJrIjoiMGU4OWRiYTItMTA4MS00YzdjLWJhYjUtNTJjZTdhOTRlZmM0IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9
 
