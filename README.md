@@ -17,9 +17,9 @@ Funciona como um gerador de dados aletórios.
 Recebe os dados gerados no Google Colab e envia para o Power BI de maneira automatica.
 
 
-De maneira mais detalhada, ele funciona da seguinte maneira: <br/> 
-1 - Usando o Google Colab, criei um script em Python usando bibliotecas Faker, Pandas e Random para que fosse gerada uma base de dados de maneira aleatória, e usando bibliotecas do Google Cloud e Big Query, envia para a base de dados no Big Query.<br/> 
-2 - O Big Query, que esta conectado em tempo real ao Power BI, recebe os dados gerados, organiza eles em forma de tabela e envia para o Dashboard.<br/> 
+De maneira mais detalhada, ele funciona da seguinte maneira: <br/> <br/> 
+1 - Usando o Google Colab, criei um script em Python usando bibliotecas Faker, Pandas e Random para que fosse gerada uma base de dados de maneira aleatória, e usando bibliotecas do Google Cloud e Big Query, envia para a base de dados no Big Query.<br/> <br/> 
+2 - O Big Query, que esta conectado em tempo real ao Power BI, recebe os dados gerados, organiza eles em forma de tabela e envia para o Dashboard.<br/> <br/> 
 3 - O Power BI recebe os dados e, usando um Gateway, atualiza os graficos e métricas com a nova adição de dados.
 
 
